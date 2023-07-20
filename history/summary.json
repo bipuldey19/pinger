@@ -24,18 +24,20 @@
     "url": "https://filestream.bymirrorx.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/filestream.bymirrorx.eu.org.ico",
     "slug": "file-stream-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 562,
-    "timeWeek": 477,
-    "timeMonth": 607,
-    "timeYear": 607,
-    "dailyMinutesDown": {}
+    "time": 653,
+    "timeDay": 1312,
+    "timeWeek": 653,
+    "timeMonth": 653,
+    "timeYear": 653,
+    "dailyMinutesDown": {
+      "2023-07-20": 0
+    }
   },
   {
     "name": "File to Link Bot",
