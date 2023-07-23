@@ -24,28 +24,30 @@
     "url": "https://filestream.bymirrorx.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/filestream.bymirrorx.eu.org.ico",
     "slug": "file-stream-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 631,
     "timeDay": 464,
     "timeWeek": 641,
     "timeMonth": 641,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-23": 3
+    }
   },
   {
     "name": "File to Link Bot",
     "url": "https://filetolink.bymirrorx.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/filetolink.bymirrorx.eu.org.ico",
     "slug": "file-to-link-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 604,
@@ -53,14 +55,16 @@
     "timeWeek": 435,
     "timeMonth": 597,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-23": 2
+    }
   },
   {
     "name": "Open Subtitles API",
     "url": "https://opensubtitles.bymirrorx.eu.org/",
     "icon": "https://icons.duckduckgo.com/ip3/opensubtitles.bymirrorx.eu.org.ico",
     "slug": "open-subtitles-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +75,8 @@
     "timeWeek": 389,
     "timeMonth": 394,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-23": 0
+    }
   }
 ]
