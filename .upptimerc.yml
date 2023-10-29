@@ -19,8 +19,8 @@ status-website:
   baseUrl: /pinger
   logoUrl: https://drive.google.com/uc?id=1YqD6qORGBGsS8t4Q8ep08NbWxHMPJhZk
   name: MirrorX Pinger
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**MirrorX** Service Status Hub"
+  introMessage: Stay informed about the availability and uptime of our bots and APIs with our Service Status Hub. Real-time updates and historical data to ensure your operations run smoothly.
   navbar:
     - title: Status
       href: /
