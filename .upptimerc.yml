@@ -22,10 +22,10 @@ status-website:
   introTitle: "**MirrorX** Service Status Hub"
   introMessage: Stay informed about the availability and uptime of our bots and APIs with our Service Status Hub. Real-time updates and historical data to ensure your operations run smoothly.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/bipuldey19/pinger
+    #- title: Status
+    #  href: /
+    #- title: GitHub
+    #  href: https://github.com/bipuldey19/pinger
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
