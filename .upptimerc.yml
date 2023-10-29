@@ -18,6 +18,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /pinger
   logoUrl: https://drive.google.com/uc?id=1YqD6qORGBGsS8t4Q8ep08NbWxHMPJhZk
+  favicon: https://drive.google.com/uc?id=1YqD6qORGBGsS8t4Q8ep08NbWxHMPJhZk
+  faviconSvg: https://drive.google.com/uc?id=1YqD6qORGBGsS8t4Q8ep08NbWxHMPJhZk
+  theme: night
   name: MirrorX Pinger
   introTitle: "**MirrorX** Service Status Hub"
   introMessage: Stay informed about the availability and uptime of our bots and APIs with our Service Status Hub. Real-time updates and historical data to ensure your operations run smoothly.
