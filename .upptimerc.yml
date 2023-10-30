@@ -10,7 +10,9 @@ sites:
   - name: Open Subtitles API
     url: https://opensubtitles.bymirrorx.eu.org/
   - name: Bangla Plex API
-    url: https://banglaplexapi.bymirrorx.eu.org/popular
+    url: https://banglaplexapi.bymirrorx.eu.org/popular/
+  - name: Ad-Free Embedded Video Player API
+    url: https://videoadblocker.glitch.me/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
