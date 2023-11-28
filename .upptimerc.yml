@@ -13,6 +13,8 @@ sites:
     url: https://banglaplexapi.bymirrorx.eu.org/popular/
   - name: Ad-Free Embedded Video Player API
     url: https://videoadblocker.glitch.me/
+  - name: M3u Hosting
+    url: https://freeiptv25.testgmail3.repl.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
