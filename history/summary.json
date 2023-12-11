@@ -16,7 +16,7 @@
     "timeMonth": 4408,
     "timeYear": 1574,
     "dailyMinutesDown": {
-      "2023-12-11": 76,
+      "2023-12-11": 83,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -111,7 +111,7 @@
     "timeMonth": 449,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2023-12-11": 76,
+      "2023-12-11": 83,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -281,9 +281,9 @@
     "url": "https://banglaplexapi.bymirrorx.eu.org/popular/",
     "icon": "https://icons.duckduckgo.com/ip3/banglaplexapi.bymirrorx.eu.org.ico",
     "slug": "bangla-plex-api",
-    "status": "up",
+    "status": "down",
     "uptime": "90.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "94.37%",
     "uptimeMonth": "89.12%",
     "uptimeYear": "90.72%",
@@ -293,6 +293,7 @@
     "timeMonth": 3130,
     "timeYear": 2760,
     "dailyMinutesDown": {
+      "2023-12-11": 0,
       "2023-12-09": 278,
       "2023-12-08": 74,
       "2023-12-06": 110,
