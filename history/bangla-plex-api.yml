@@ -1,7 +1,7 @@
 url: https://banglaplexapi.bymirrorx.eu.org/popular/
-status: up
-code: 200
-responseTime: 2436
-lastUpdated: 2023-12-17T18:39:26.740Z
+status: down
+code: 503
+responseTime: 406
+lastUpdated: 2023-12-17T21:12:28.035Z
 startTime: 2023-10-29T06:42:45.465Z
 generator: Upptime <https://github.com/upptime/upptime>
