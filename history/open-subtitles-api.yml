@@ -1,7 +1,7 @@
 url: https://opensubtitles.bymirrorx.eu.org/
-status: up
-code: 200
-responseTime: 650
-lastUpdated: 2024-01-24T23:20:06.195Z
+status: down
+code: 503
+responseTime: 4376
+lastUpdated: 2024-01-25T02:43:50.156Z
 startTime: 2023-07-13T12:25:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
