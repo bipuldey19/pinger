@@ -16,7 +16,7 @@
     "timeMonth": 2555,
     "timeYear": 2370,
     "dailyMinutesDown": {
-      "2024-03-28": 136,
+      "2024-03-28": 157,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -219,7 +219,7 @@
     "timeMonth": 409,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2024-03-28": 137,
+      "2024-03-28": 157,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
@@ -506,11 +506,11 @@
     "url": "https://banglaplexapi.bymirrorx.eu.org/popular/",
     "icon": "https://icons.duckduckgo.com/ip3/banglaplexapi.bymirrorx.eu.org.ico",
     "slug": "bangla-plex-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.55%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "97.69%",
-    "uptimeMonth": "96.45%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "96.44%",
     "uptimeYear": "98.55%",
     "time": 3055,
     "timeDay": 1948,
@@ -518,6 +518,7 @@
     "timeMonth": 2388,
     "timeYear": 3055,
     "dailyMinutesDown": {
+      "2024-03-28": 2,
       "2024-03-27": 49,
       "2024-03-26": 26,
       "2024-03-24": 27,
@@ -572,7 +573,7 @@
       "2024-01-14": 20,
       "2024-01-12": 116,
       "2024-01-11": 63,
-      "2024-01-10": 37
+      "2024-01-10": 22
     }
   },
   {
@@ -653,9 +654,9 @@
     "url": "https://personalm3u.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/personalm3u.onrender.com.ico",
     "slug": "personal-m3u",
-    "status": "up",
+    "status": "down",
     "uptime": "98.50%",
-    "uptimeDay": "97.61%",
+    "uptimeDay": "97.59%",
     "uptimeWeek": "98.55%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "98.50%",
