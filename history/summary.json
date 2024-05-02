@@ -16,7 +16,7 @@
     "timeMonth": 10789,
     "timeYear": 2561,
     "dailyMinutesDown": {
-      "2024-05-02": 785,
+      "2024-05-02": 868,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -254,7 +254,7 @@
     "timeMonth": 480,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2024-05-02": 785,
+      "2024-05-02": 868,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -577,19 +577,19 @@
     "url": "https://banglaplexapi.bymirrorx.eu.org/popular/",
     "icon": "https://icons.duckduckgo.com/ip3/banglaplexapi.bymirrorx.eu.org.ico",
     "slug": "bangla-plex-api",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "97.90%",
-    "uptimeWeek": "99.05%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "98.73%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.83%",
     "time": 3048,
     "timeDay": 1865,
     "timeWeek": 2100,
     "timeMonth": 2922,
     "timeYear": 3048,
     "dailyMinutesDown": {
-      "2024-05-02": 30,
+      "2024-05-02": 31,
       "2024-04-30": 50,
       "2024-04-28": 15,
       "2024-04-25": 16,
@@ -651,7 +651,7 @@
       "2024-01-27": 31,
       "2024-01-25": 41,
       "2024-01-24": 58,
-      "2024-01-23": 92
+      "2024-01-23": 35
     }
   },
   {
@@ -737,7 +737,7 @@
     "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.02%",
-    "uptimeMonth": "97.15%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "97.64%",
     "time": 2838,
     "timeDay": 239,
